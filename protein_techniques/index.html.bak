@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>protein_techniques_index</title>
+    <style type="text/css">
+#s {
+  font-size: x-large;
+  font-family: "Ubuntu";
+}
+
+</style></head>
+  <body id="s">
+    <p><b>Protein Techniques</b></p>
+    <p><br>
+    </p>
+    <p><b>Protein purification</b></p>
+    <p>-Ion Exchange chromatography</p>
+    <p>-Size Exclusion chromatography</p>
+    <p>-Affinity chromatography</p>
+    <p>-High Pressure/Performance Liquid Chromatography (HPLC)</p>
+    <p><br>
+    </p>
+    <p>Before purification</p>
+    <p>Protein expression and purification</p>
+    <p>preliminary purification results, <a href="pages/protein_mixture.html">here</a></p>
+    <p><br>
+    </p>
+    <p><a href="pages/ion_exchange.html">Ion Exchange</a></p>
+    <p>- based on charges of proteins</p>
+    <p>-recall concepts of pka and pI</p>
+    <p><br>
+    </p>
+    <p><a href="pages/size_exclusion.html">Size Exclusion</a> (Gel Filtration)</p>
+    <p>- based on the sizes of protein molecules</p>
+    <p><br>
+    </p>
+    <p><a href="pages/affinity.html">Affinity</a> </p>
+    <p>- <a href="pages/his-tag.html">His-tag</a>, GST, MBP</p>
+    <p><br>
+    </p>
+    <p>High Pressure/Performance Liquid Chromatography (<a href="pages/HPLC.html">HPLC</a>)</p>
+    <p>- based on hydrophobicity of the protein molecules</p>
+    <p>- <a href="pages/HPLC_example.html">example</a></p>
+    <p><br>
+    </p>
+    <p><b>Protein Analysis</b></p>
+    <p><br>
+    </p>
+    <p>SDS-PAGE</p>
+    <p>Native PAGE</p>
+    <p>Western Blot</p>
+    <p>IEF</p>
+    <p>Circular Dichroism (CD)</p>
+    <p><br>
+    </p>
+    <p><a href="pages/sds-page.html">SDS-PAGE</a></p>
+    <p>- protein molecules are in reducing and denatured condition</p>
+    <p>- Polyacrylamide Gel Electrophoresis (PAGE)</p>
+    <p>- based on the sizes of protein molecules</p>
+    <p><br>
+    </p>
+    <p><a href="pages/native_PAGE.html">Native PAGE</a></p>
+    <p>- protein molecules are in non-reducing and non-denaturing condition</p>
+    <p>- separation is based on charge to mass ratio of protein molecules</p>
+    <p>- secondary structure and native charge density of protein are maintained</p>
+    <p><br>
+    </p>
+    <p><a href="pages/western.html">Western Blot Transfer</a></p>
+    <p>- transfer SDS-PAGE onto membrane</p>
+    <p>- separation based on specific antibody binding</p>
+    <p>- confirm the identity of the protein molecule</p>
+    <p>- antigen antibody <a href="pages/antibody-antigen.html">interaction</a></p>
+    <p>- <a href="pages/western-example.html">example</a></p>
+    <p><a href="pages/western-example.html"><br>
+      </a></p>
+    <p><span style="color: #0000ee;">Iso Electric Focusing (<a href="pages/IEF.html">IEF</a>)</span></p>
+    <p><span style="color: #0000ee;">- isoelectric point</span></p>
+    <p><span style="color: #0000ee;">- separation based on charges of proteins</span></p>
+    <p><span style="color: #0000ee;">- confirm the homogeneity of the protein<br>
+      </span></p>
+    <p><span style="color: #0000ee;"></span><br>
+    </p>
+    <p>Circular Dichroism</p>
+    <p>- secondary structure of protein molecules</p>
+    <p>- <a href="pages/CD_prp.html">example</a><br>
+    </p>
+  </body>
+</html>
