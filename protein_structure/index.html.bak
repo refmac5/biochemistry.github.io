@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>index_protein_structure</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+  font-family: "Ubuntu";
+}
+
+</style></head>
+  <body id="s">
+    <p><b>Chapter 4 Protein Structure <br>
+      </b></p>
+    <ul>
+      <li>Structure and properties of the peptide bond</li>
+    </ul>
+    <ul>
+      <li>Structural hierarchy in proteins</li>
+    </ul>
+    <ul>
+      <li>Structure and function of fibrous proteins</li>
+    </ul>
+    <ul>
+      <li>Structure analysis of globular proteins </li>
+    </ul>
+    <ul>
+      <li>Protein folding and denaturation</li>
+    </ul>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p>Big picture: <a href="pages/4_levels_structure.html">4 levels of Protein
+        Structure</a> <a href="pages/4_levels_structure.html"><br>
+      </a></p>
+    <p><u><b>Peptide bond</b></u></p>
+    <ul>
+      <li>Resonance in the peptide bond: <a href="pages/trans.html">trans</a>
+        vs cis</li>
+    </ul>
+    <ul>
+      <li>Structure of the protein is partially dictated by the properties of
+        the peptide bond</li>
+    </ul>
+    <ul>
+      <li>The peptide bond is a resonance hybrid of two canonical structures </li>
+    </ul>
+    <ul>
+      <li> The resonance causes the peptide bonds to be less reactive compared
+        to esters, for example to be quite rigid and nearly planar to exhibit a
+        large dipole moment in the favored trans configuration.</li>
+    </ul>
+    <ul>
+      <li>The rigid <a href="pages/peptide_planes.html">peptide plane</a> and
+        partially free rotations</li>
+    </ul>
+    <p>(Rotation around the peptide bond is not permitted, Rotation around bonds
+      connected to the alpha carbon is permitted )</p>
+    <ul>
+    </ul>
+    <p> &nbsp; <span class="_Tgc">ϕ</span>(phi): angle around the -carbon—amide
+      nitrogen bond <br>
+      &nbsp; <span class="_Tgc"><b>Ψ</b></span>(psi): angle around the
+      -carbon—carbonyl carbon bond<br>
+      In a fully extended polypeptide, both <span class="_Tgc">ϕ</span>&nbsp;
+      and <span class="_Tgc"><b>Ψ</b></span> are 180° (a <a href="https://www.youtube.com/watch?v=Kewhg5spUjs">video</a>
+      that can be helpful)</p>
+    <ul>
+      <li>Distribution of psi and phi dihydral angles (<a href="pages/ramachandran_plot.html">Ramachandran
+          plot</a>) </li>
+    </ul>
+    <p>Some <span class="_Tgc">ϕ</span> and <span class="_Tgc"><b>Ψ</b></span>
+      combinations are very unfavorable because of steric crowding of backbone
+      atoms with other atoms in the backbone or side chains.</p>
+    <p> Some <span class="_Tgc">ϕ</span> and <span class="_Tgc"><b>Ψ</b></span>
+      combinations are more favorable because of chance to form favorable
+      H-bonding interactions along the backbone.</p>
+    <p> <u>A Ramachandran</u> plot shows the distribution of <span class="_Tgc">ϕ</span>
+      and <span class="_Tgc"><b>Ψ</b></span> dihedral angles that are found in
+      a protein.</p>
+    <p>Ramachandran plot&nbsp; shows the common secondary structure elements and
+      <br>
+      &nbsp;reveals regions with unusual backbone structure.</p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><u><b>Secondary Structures</b></u></p>
+    <ul>
+      <li>Secondary structure refers to a local spatial arrangement of the
+        polypeptide backbone</li>
+    </ul>
+    <ul>
+      <li> The&nbsp;<u>α&nbsp; helix</u>: stabilized by hydrogen bonds between
+        nearby residues</li>
+    </ul>
+    <ul>
+      <li>The&nbsp;<u><u>β</u> sheet</u>: stabilized by hydrogen bonds between
+        adjacent segments that may not be nearby </li>
+    </ul>
+    <ul>
+      <li><u>Random coil</u>: Irregular arrangement of the polypeptide chain.</li>
+    </ul>
+    <p> </p>
+    <p><br>
+    </p>
+    <p><b>The&nbsp;</b><b><a href="pages/alpha_helix.html"> </a></b><b><a href="pages/alpha_helix.html"><u>α
+          </u>helix</a>:</b></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp; [some facts about α helix]</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;
+        ↓</b></p>
+    <ul>
+      <li>Helical backbone is held together by hydrogen bonds between the
+        backbone amides of an <u>n</u> and <u>n+4</u> amino acids</li>
+      <li>Right-handed helix with <u>3.6</u> residues (5.4 Å) per turn</li>
+      <li>Side chains point out </li>
+    </ul>
+    <p> <br>
+    </p>
+    <p><b>α helix <a href="pages/alpha_helix_top_view.html">top view</a></b></p>
+    <ul>
+      <li>The inner diameter of the helix (no side chains) is about <u>4–5 Å</u>,
+        too small for anything to fit “inside” </li>
+    </ul>
+    <ul>
+      <li> The outer diameter of the helix (with side chains) is <u>10–12 Å</u>,
+        it happens to fit well into the major groove of dsDNA</li>
+    </ul>
+    <p><br>
+    </p>
+    <p><b>The <a href="pages/helix_dipole.html">helix dipole</a> and
+        interactions within </b><b><b>α</b> helix<a href="pages/helix_dipole.html"><br>
+        </a></b></p>
+    <p>(Recall that the peptide bond has a strong dipole moment)</p>
+    <ul>
+      <li> Carbonyl O negative, Amide H positive</li>
+    </ul>
+    <ul>
+      <li> All peptide bonds in the alpha helix have a similar orientation</li>
+    </ul>
+    <ul>
+      <li> The alpha helix has a large macroscopic dipole moment (Negatively
+        charged residues often occur near the positive end of the helix dipole)</li>
+    </ul>
+    <ul>
+      <li> Does R group matter in helix formation? Gly, Pro, RRRRRRR</li>
+    </ul>
+    <p><br>
+    </p>
+    <ul>
+    </ul>
+    <p><a href="pages/fibrous-protein.html">Fibrous Proteins</a>:&nbsp; From
+      Structure to Function </p>
+    <ul>
+      <li>Structure of <a href="pages/keratin.html">alpha-Keratin</a> in Hair,
+        <a href="pages/hair-fibril.html">hair-fibril</a>&nbsp; (Chemistry of <a
+          href="pages/hair-disulfide.html">Permanent Waving)</a></li>
+    </ul>
+    <ul>
+      <li>Structure of <a href="pages/collagen.html">Collagen</a> </li>
+    </ul>
+    <p>--Collagen is an important constituent of connective tissue: tendons,
+      cartilage, bones, cornea of the eye.</p>
+    <p>--Three amino acid residues per turn.</p>
+    <p>--Each collagen chain is a long Gly- and Pro-rich left-handed helix.<br>
+      --Three collagen chains intertwine into a right-handed superhelical triple
+      helix.<br>
+      --The triple helix has higher tensile strength than a steel wire of equal
+      cross section.<br>
+      --Many triple-helices assemble into a <a href="file:///home/ming/Dropbox/1.2_teaching_CHEM451/slides/protein_structure/pages/collagen-fibrils.html">collagen
+        fibril</a>.</p>
+    <p><br>
+    </p>
+    <p> </p>
+    <p><b><a href="pages/beta-sheet.html"><u><u>β </u></u>sheet</a></b></p>
+    <ul>
+      <li>The planarity of the peptide bond and tetrahedral geometry of the
+        α-carbon create a pleated sheet-like structure</li>
+    </ul>
+    <ul>
+      <li> Sheet-like arrangement of backbone is held together by hydrogen bonds
+        between the backbone amides in different strands</li>
+    </ul>
+    <ul>
+      <li> Side chains protrude from the sheet alternating in up and down
+        direction</li>
+    </ul>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><b><a href="pages/parallel-beta.html">Parallel</a> and <a href="pages/antiparallel-beta.html">Antiparallel</a>
+        beta-Sheets</b></p>
+    <ul>
+      <li> Parallel or antiparallel orientation of two chains within a sheet are
+        possible </li>
+    </ul>
+    <ul>
+      <li> In parallel beta sheets the H-bonded strands run in the same
+        direction, resulting in bent H-bonds (weaker)</li>
+    </ul>
+    <ul>
+      <li> In antiparallel beta sheets the H-bonded strands run in opposite
+        directions, resulting in linear H-bonds (stronger)</li>
+      <li><br>
+      </li>
+    </ul>
+    <p>Silk Fibroin --Fibroin is the main protein in silk from moths and spiders<br>
+      <a href="pages/antiparallel-beta-sheet.html">--Antiparallel beta sheet</a>
+      structure&nbsp; <br>
+      --Small side chains (Ala and Gly) allow the close packing of sheets<br>
+      --Structure is stabilized by hydrogen bonding within sheets<br>
+      --London dispersion interactions between sheets</p>
+    <p><br>
+    </p>
+    <p><a href="pages/beta-turn.html">beta-Turns</a> </p>
+    <ul>
+      <li>beta turns occur frequently whenever strands in beta sheets change the
+        direction&nbsp; </li>
+    </ul>
+    <ul>
+      <li> The 180° turn is accomplished over four amino acids</li>
+    </ul>
+    <ul>
+      <li> The turn is stabilized by a hydrogen bond from a carbonyl oxygen to
+        amide proton three residues down the sequence</li>
+    </ul>
+    <ul>
+      <li> Proline in position 2 or glycine in position 3 are common in beta
+        turns</li>
+    </ul>
+    <p><br>
+    </p>
+    <p><a href="pages/proline-isomers.html">Proline isomers</a></p>
+    <ul>
+      <li>Most peptide bonds not involving proline are in the trans
+        configuration (&gt;99.95%)&nbsp; </li>
+    </ul>
+    <ul>
+      <li> For peptide bonds involving proline, about 6% are in the cis
+        configuration.&nbsp; Most of this 6% involve β-turns</li>
+    </ul>
+    <ul>
+      <li> Proline isomerization is catalyzed by proline isomerases</li>
+    </ul>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p> </p>
+    <p>Re-Visiting secondary structure in<a href="pages/ramachandran-secondary.html">
+        ramachandran plot</a></p>
+    <br>
+    <p><b>How to "see" secondary structure of protein</b><br>
+      <a href="pages/ramachandran-secondary.html"></a></p>
+    <p>Circular Dichroism (<a href="pages/CD.html">CD</a>) Analysis</p>
+    <ul>
+      <li>CD measures the molar absorption difference in the absorption of
+        left-handed circularly polarised light (L-CPL) and right-handed
+        circularly polarised light (R-CPL) and occurs when a molecule contains
+        one or more chiral chromophores (light -absorbing groups)</li>
+    </ul>
+    <ul>
+      <li> Chromophores in the chiral environment produce characteristic signals</li>
+    </ul>
+    <ul>
+      <li> CD signals from peptide bonds depend on the chain conformation&nbsp;
+      </li>
+    </ul>
+    <p>(more materials to read on CD if you are interested, <a href="https://www.chem.uci.edu/%7Edmitryf/manuals/Fundamentals/CD%20spectroscopy.pdf">here)</a><br>
+    </p>
+    <p><a href="pages/globular-protein.html"></a><br>
+    </p>
+    <u><b>Motifs</b></u>
+    <p>Specific arrangement of several secondary structure elements</p>
+    <ul>
+      <li> All alpha-helix</li>
+    </ul>
+    <ul>
+      <li> All beta-sheet</li>
+    </ul>
+    <ul>
+      <li> Both</li>
+    </ul>
+    <ul>
+      <li> Motifs can be found as reoccurring structures in numerous proteins</li>
+    </ul>
+    <ul>
+      <li> Proteins are made of different motifs folded together </li>
+    </ul>
+    <p><a href="pages/motifs.html">Motifs</a> (folds)&nbsp; β-α-β</p>
+    <a href="pages/beta-barrel.html">beta-barrel</a>
+    <p><a href="pages/other_motifs.html">more motifs</a></p>
+    <p><br>
+    </p>
+    <p><a href="pages/globular-protein.html">Protein Tertiary Structure</a> (<a
+        href="https://www.youtube.com/watch?v=lijQ3a8yUYQ">how</a> it folds) </p>
+    <ul>
+      <li>Tertiary structure refers to the overall spatial arrangement of atoms
+        in a protein</li>
+    </ul>
+    <ul>
+      <li> Stabilized by numerous weak interactions between amino acid side
+        chains.</li>
+    </ul>
+    <ul>
+      <li> Largely hydrophobic and polar interactions</li>
+    </ul>
+    <ul>
+      <li> Can be stabilized by disulfide bonds</li>
+    </ul>
+    <ul>
+      <li> Interacting amino acids are not necessarily next to each other in the
+        primary sequence.&nbsp; </li>
+    </ul>
+    <ul>
+      <li> Two major classes:&nbsp; Fibrous and globular (water or lipid
+        soluble)</li>
+    </ul>
+    <p><br>
+    </p>
+    <p> </p>
+    <p><b><a href="pages/quaternary-structure.html">Quaternary Structure</a></b></p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p>Protein Structure Methods: <br>
+      <a href="pages/x-ray.html">X-Ray Crystallography</a></p>
+    <p><a href="pages/NMR.html">NMR</a></p>
+    <p><u>About X-ray crystallography:</u></p>
+    <p>--Purify the protein<br>
+      --Crystallize the protein<br>
+      --Collect diffraction data<br>
+      --Calculate electron density<br>
+      --Fit residues into density<br>
+      --Pros: No size limits, Well-established<br>
+      --Cons: Difficult for membrane proteins, Cannot see hydrogens<br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><b>Intrinsically <a href="pages/disordered-proteins.html">Disordered
+          Proteins</a></b></p>
+    <ul>
+      <li>Contain protein segments that lack definable structure</li>
+    </ul>
+    <ul>
+      <li> Composed of amino acids whose higher concentration forces
+        less-defined structure, Lys, Arg, Glu, and Pro</li>
+    </ul>
+    <ul>
+      <li> Disordered regions can conform to many different proteins,
+        facilitating interaction with numerous different partner proteins&nbsp;
+        <br>
+      </li>
+    </ul>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><b>Protein Stability and Folding (and unfolding)<br>
+      </b></p>
+    <ul>
+      <li>A protein’s function depends on its 3D-structure</li>
+    </ul>
+    <ul>
+      <li> Loss of structural integrity with accompanying loss of activity is
+        called denaturation</li>
+    </ul>
+    <ul>
+      <li> Proteins can be denatured by: <a href="pages/melting_t.html">heat</a>
+        or cold, pH extremes, organic solvents, chaotropic agents: urea and <a
+          href="pages/detergent_denaturation.html">guanidinium hydrochloride</a></li>
+    </ul>
+    <p><br>
+    </p>
+    <p><u>protein unfolding and refolding example:</u><br>
+    </p>
+    <p>Ribonuclease <a href="pages/refolding.html">Refolding</a> Experiment</p>
+    <ul>
+      <li>Ribonuclease is a small protein that contains 8 cysteines linked via
+        four disulfide bonds</li>
+    </ul>
+    <ul>
+      <li> Urea in the presence of 2-mercaptoethanol fully denatures
+        ribonuclease</li>
+    </ul>
+    <ul>
+      <li> When urea and 2-mercaptoethanol are removed, the protein
+        spontaneously refolds, and the correct disulfide bonds are
+        reformed&nbsp;&nbsp; </li>
+    </ul>
+    <ul>
+      <li> The sequence alone determines the native conformation</li>
+    </ul>
+    <ul>
+      <li> Quite “simple” experiment, but so important it earned Chris Anfinsen
+        the 1972 Chemistry Nobel Prize</li>
+    </ul>
+    <p>note: not all the proteins are able to refold to their native structures
+      as ribonuclease A<br>
+    </p>
+    <p><br>
+    </p>
+    <p><b>How can proteins fold so fast?</b></p>
+    <p>- Proteins fold to the lowest-energy fold in the <u>microsecond to
+        second</u> time scales.&nbsp; How can they find the right fold so fast?<br>
+      - It is mathematically impossible for protein folding to occur by randomly
+      trying every conformation until the lowest-energy one is found
+      (Levinthal’s paradox)<br>
+      - Search for the <a href="pages/folding_energy.html">minimum</a> is not
+      random because the direction toward the native structure is
+      thermodynamically most favorable</p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><a href="pages/protein_folding.html"><b>Protein folding process</b><br>
+      </a></p>
+    <p>Chaperones<a href="pages/chaperones.html"> prevent</a>&nbsp; / <a href="pages/chaperones_facilitate_folding.html">facilitate</a>
+      protein from misfolding</p>
+    <p>Protein <a href="pages/misfolding.html">misfolding</a> is the basis of
+      numerous human diseases</p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><u><b>Summary</b></u></p>
+    <ul>
+      <li>the two most important secondary structures: α helices, β sheets</li>
+    </ul>
+    <ul>
+      <li> how properties and function of fibrous proteins are related</li>
+    </ul>
+    <ul>
+      <li> how to determine three-dimensional structures of proteins</li>
+    </ul>
+    <ul>
+      <li> one of the largest unsolved puzzles in modern biochemistry: how
+        proteins fold</li>
+    </ul>
+    <p><br>
+    </p>
+    <p></p>
+    <ul>
+    </ul>
+    <p></p>
+  </body>
+</html>
