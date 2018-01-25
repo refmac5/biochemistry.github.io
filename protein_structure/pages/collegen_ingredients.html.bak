@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>collegen</title>
+  </head>
+  <body>
+    <p>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    </p>
+    <table class="wikitable sortable jquery-tablesorter" style="font-size: 14px; background-color: #f8f9fa; color: #222222; margin: 1em 0px; border: 1px solid #a2a9b1; border-collapse: collapse; width: 899px; height: 699px;">
+      <thead style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+        <tr>
+          <th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"
+            style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 21px 0.2em 0.4em; background-color: rgb(234, 236, 240); text-align: center; background-image: linear-gradient(transparent, transparent), url(&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2221%22 height=%229%22 viewBox=%220 0 21 9%22%3E %3Cpath d=%22M14.5 5l-4 4-4-4zM14.5 4l-4-4-4 4z%22/%3E %3C/svg%3E&quot;); cursor: pointer; background-repeat: no-repeat; background-position: right center;">Amino
+            acid</th>
+          <th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"
+            style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 21px 0.2em 0.4em; background-color: rgb(234, 236, 240); text-align: center; background-image: linear-gradient(transparent, transparent), url(&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2221%22 height=%229%22 viewBox=%220 0 21 9%22%3E %3Cpath d=%22M14.5 5l-4 4-4-4zM14.5 4l-4-4-4 4z%22/%3E %3C/svg%3E&quot;); cursor: pointer; background-repeat: no-repeat; background-position: right center;">Abundance
+            in mammal skin<br>
+            (<a href="https://en.wikipedia.org/wiki/Residue_%28biochemistry%29"
+              class="mw-redirect" title="Residue (biochemistry)" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">residues</a>/1000)</th>
+          <th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"
+            style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 21px 0.2em 0.4em; background-color: rgb(234, 236, 240); text-align: center; background-image: linear-gradient(transparent, transparent), url(&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2221%22 height=%229%22 viewBox=%220 0 21 9%22%3E %3Cpath d=%22M14.5 5l-4 4-4-4zM14.5 4l-4-4-4 4z%22/%3E %3C/svg%3E&quot;); cursor: pointer; background-repeat: no-repeat; background-position: right center;">Abundance
+            in fish skin<br>
+            (residues/1000)</th>
+        </tr>
+      </thead>
+      <tbody style="color: rgb(34, 34, 34); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Glycine" title="Glycine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Glycine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">329</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">339</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Proline" title="Proline" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Proline</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">126</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">108</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Alanine" title="Alanine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Alanine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">109</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">114</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Hydroxyproline" title="Hydroxyproline"
+              style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Hydroxyproline</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">95</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">67</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Glutamic_acid" title="Glutamic acid"
+              style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Glutamic
+              acid</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">74</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">76</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Arginine" title="Arginine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Arginine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">49</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">52</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Aspartic_acid" title="Aspartic acid"
+              style="text-decoration: underline; color: rgb(250, 167, 0); background: none;">Aspartic
+              acid</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">47</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">47</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Serine" title="Serine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Serine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">36</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">46</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Lysine" title="Lysine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Lysine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">29</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">26</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Leucine" title="Leucine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Leucine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">24</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">23</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Valine" title="Valine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Valine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">22</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">21</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Threonine" title="Threonine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Threonine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">19</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">26</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Phenylalanine" title="Phenylalanine"
+              style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Phenylalanine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">13</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">14</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Isoleucine" title="Isoleucine"
+              style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Isoleucine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">11</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">11</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Hydroxylysine" title="Hydroxylysine"
+              style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Hydroxylysine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">6</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">8</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Methionine" title="Methionine"
+              style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Methionine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">6</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">13</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Histidine" title="Histidine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Histidine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">5</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">7</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Tyrosine" title="Tyrosine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Tyrosine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">3</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">3</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Cysteine" title="Cysteine" style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Cysteine</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">1</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">1</td>
+        </tr>
+        <tr>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;"><a
+              href="https://en.wikipedia.org/wiki/Tryptophan" title="Tryptophan"
+              style="text-decoration: none; color: rgb(11, 0, 128); background: none;">Tryptophan</a></td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">0</td>
+          <td style="border: 1px solid rgb(162, 169, 177); padding: 0.2em 0.4em;">0</td>
+        </tr>
+      </tbody>
+    </table>
+    from wikipedia<br class="Apple-interchange-newline">
+    <p></p>
+  </body>
+</html>
