@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>index</title>
+    <style type="text/css">
+#font {
+  font-size: xx-large;
+  font-family: "Ubuntu";
+}
+
+</style></head>
+  <body id="font"><span id="bold" style="font-family: Ubuntu;"><b><span style="color: #000099;">CHAPTER
+          8: NUCLEOTIDES</span><br>
+        <br>
+      </b></span>
+    <ul>
+      <li><span style="font-family: Ubuntu;"> <b>HISTORY of DNA</b></span></li>
+    </ul>
+    <p><span style="font-family: Ubuntu;"><b> </b></span> <span style="font-family: Ubuntu;">
+      </span><span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp; -- <a href="pages/discover_DNA.html">DNA
+            Discovering</a></span> <br>
+      </span></p>
+    <p><span style="font-family: Ubuntu;"><br>
+      </span></p>
+    <p><br>
+      <span style="font-family: Ubuntu;"><b> </b></span> </p>
+    <ul>
+      <li><span style="font-family: Ubuntu;"><b> STRUCTURE AND PROPERTIES</b></span></li>
+    </ul>
+    <span style="font-family: Ubuntu;"><b> </b> &nbsp;&nbsp;&nbsp;&nbsp; -- <a
+        href="pages/nucleotide.html">Nucleotide</a><br>
+      <br>
+    </span>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; -- Nucleotide = Nitrogeneous base +
+    Pentose + Phosphate<br>
+    <br>
+    &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; -- Nucleoside = Nitrogeneous base +
+    Pentose<br>
+    <br>
+    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; -- Nucleobase = Nitrogeneous base<b><br>
+      <br>
+    </b> <span style="font-family: Ubuntu;"><a href="pages/nonmenclature.html">&nbsp;&nbsp;&nbsp;
+        -- Nonmenclature</a> Summary<br>
+      <br>
+    </span> <span style="font-family: Ubuntu;"><span id="bold" style="font-family: Ubuntu;"><a
+          href="pages/base.html">Bases</a><br>
+      </span>&nbsp;</span><br>
+    <span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><a href="pages/basepair.html">Basepair</a></span></span><span
+      style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><br>
+          <br>
+          <a href="pages/260.html">260 nm</a></span><br>
+      </span></span><br>
+    <span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><span
+          style="font-family: Ubuntu;"><a href="pages/diesterbond.html">Phosphodiesterbond</a></span></span><br>
+      <br>
+      <a href="pages/B_form.html">B form</a><br>
+      Major <a href="pages/grooves.html">groove</a>, minor groove<br>
+    </span><span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;">10.5
+        base pairs per turn</span> <br>
+      <br>
+      DNA B form Structure, <a href="https://youtu.be/o_-6JXLYS-k">cartoon demo</a><br>
+      <br>
+      <a href="pages/A_form.html">A form</a><br>
+      <br>
+      <a href="pages/A_form_B_form.html">A form and B form</a><br>
+    </span><br>
+    <span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;">Other
+        existing forms of nucleotides - <a href="pages/NAD.html">NAD</a>, <a href="pages/FAD.html">FAD</a></span>
+      <br>
+      <br>
+      <b><br>
+      </b></span><span style="font-family: Ubuntu;"></span>
+    <p><br>
+    </p>
+    <span style="font-family: Ubuntu;"><b> </b></span>
+    <ul>
+      <li><span style="font-family: Ubuntu;"><b>DENATURING</b></span></li>
+    </ul>
+    <span style="font-family: Ubuntu;"><a href="pages/denaturing.html">Denaturing</a>
+      (<a href="https://youtu.be/RtTGae1Wwdo">video</a>)</span><br>
+    <p> <a href="pages/consequence_of_denaturation.html">Consequences</a> of
+      denaturation &nbsp;&nbsp;</p>
+    <p>Reversibility of denaturation</p>
+    <p>&nbsp;&nbsp;&nbsp; -- Denaturation may be reversible: annealing</p>
+    <p style="background-color: white;">&nbsp;&nbsp;&nbsp; -- The reversible
+      thermal denaturation and annealing form basis for the <i style="color: #006600;">polymerase
+        chain reaction</i> (PCR)</p>
+    <p>&nbsp;<span style="font-family: Ubuntu;"><a href="pages/melting_temperature.html">Melting
+          Temperature</a> (Tm)<br>
+        <br>
+        &nbsp;<a href="pages/GC_vs_Tm.html">GC content vs Tm</a></span><span style="font-family: Ubuntu;"></span></p>
+    <p><br>
+    </p>
+    <p><br>
+      <span style="font-family: Ubuntu;"><b> </b></span> </p>
+    <ul>
+      <li><b><span style="font-family: Ubuntu;">Modification and Damage (<a href="https://youtu.be/vP8-5Bhd2ag">Ted-talk
+              video</a>)<br>
+          </span></b></li>
+    </ul>
+    <span style="font-family: Ubuntu;"> <b>Radiation induced DAMAGE</b><br>
+      <a href="pages/thymine_dimer.html">Thymine Dimer</a><br>
+      <a href="pages/kink.html">Kinking</a><br>
+      <br>
+      <b>Spontaneous Mutagenesis</b><br>
+      <a href="pages/deamination.html">Deamination</a><br>
+      <a href="pages/depurination.html">Depurination</a><br>
+      <br>
+      <b>Oxidative and Chemical Mutagenesis</b><br>
+      - Oxidative damage<br>
+      - Hydroxylation of guanine<br>
+      &nbsp;<br>
+      <br>
+      <b>Chemical <a href="pages/alkylating_agents.html">alkylation</a></b><br>
+      &nbsp;- Methylation of guanine<br>
+      <br>
+      <br>
+    </span><span style="font-family: Ubuntu;"></span>
+    <p><br>
+    </p>
+    <p><span style="font-family: Ubuntu;"></span></p>
+    <ul>
+      <li><span style="font-family: Ubuntu;"> <b>DNA REPLICATION</b>- </span><span
+          style="font-family: Ubuntu; color: #006600;"><span style="font-family: Ubuntu;">Semiconservative</span></span></li>
+    </ul>
+    <span style="color: #0000ee;"><span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; -- </span></span><span style="font-family: Ubuntu;"><a
+        href="pages/replication_fork.html">Replication fork</a></span><span style="font-family: Ubuntu;">,
+      <a href="http://scienceprimer.com/replication-fork">animation</a><br>
+      <span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        -- </span><a href="pages/replication.html"><span style="font-family: Ubuntu;">Replication</span></a>
+      (</span><span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><a
+          href="https://youtu.be/TNKWgcFPHqw" target="_blank">video</a></span>)<br>
+      <br>
+    </span>
+    <ul>
+      <li><span style="font-family: Ubuntu;">DNA replication applications</span></li>
+    </ul>
+    <span style="font-family: Ubuntu;"> </span><span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; -- Recombinant DNA formation: <a href="pages/recombinant_DNA.html">1,</a>
+      <a href="pages/recombinant_DNA2.html">2</a><br>
+    </span>
+    <p><span style="font-family: Ubuntu;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+        -- <a href="pages/cleavage_site.html">Cleavage site </a></span><span style="font-family: Ubuntu;"><span
+          style="font-family: Ubuntu;"><span style="font-family: Ubuntu;">(Restriction
+            enzyme, e.g<a target="_blank" href="https://www.neb.com/products/r0111-ndei">.
+              NdeI)</a> (</span></span></span><span style="font-family: Ubuntu;"><span
+          style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><span
+              style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><span
+                  style="font-family: Ubuntu;"><a href="pages/palindrome.html">Palindrome</a>
+                  sequence </span></span></span>)<a target="_blank" href="https://www.neb.com/products/r0111-ndei"><br>
+            </a></span></span></span></p>
+    <span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; -- <a href="pages/site_directed_mutagenesis.html">Site
+          Directed Mutagenesis</a></span> <br>
+    </span><br>
+    <span style="font-family: Ubuntu;"><br>
+    </span><span style="font-family: Ubuntu;"></span><span style="font-family: Ubuntu;"><span
+        style="font-family: Ubuntu;"><br>
+      </span></span>
+    <p><span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"> </span></span><span
+        style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><br>
+        </span></span></p>
+    <p><span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"></span></span><br>
+    </p>
+    <span style="font-family: Ubuntu;"> </span>
+    <ul>
+      <li><span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><span
+              style="font-family: Ubuntu;"><b>Other forms of DNA</b></span></span></span></li>
+    </ul>
+    <span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><span
+          style="font-family: Ubuntu;"> <a href="pages/cruciform.html">Cruciform</a></span></span>,
+      further reading on cruciform, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21816114">here</a><br>
+      <span style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><span
+            style="font-family: Ubuntu;"><span style="font-family: Ubuntu;"><a href="pages/hairpin.html">Hairpin</a></span></span>
+          , further reading on hairpin, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3008174/">here</a><br>
+        </span></span> <br>
+    </span>
+    <p><span style="font-family: Ubuntu;"> </span></p>
+    <br>
+    <p><br>
+    </p>
+    <ul>
+      <li><span style="font-family: Ubuntu;"><b><a href="pages/rna.html">RNA</a></b></span></li>
+    </ul>
+    <p><br>
+    </p>
+    <span style="font-family: Ubuntu;"><br>
+    </span><span style="font-family: Ubuntu;"></span> <span style="font-family: Ubuntu;"></span>
+  </body>
+</html>

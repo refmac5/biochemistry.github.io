@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>dna_denaturation</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Covalent bonds remain intact</p>
+    <p>Genetic code remains intact</p>
+    <p>Hydrogen bonds are broken</p>
+    <p>Two strands separate</p>
+    <p>Base stacking is lost</p>
+    <p>UV absorbance increases<br>
+      <br>
+      Denaturation can be induced by high temperature, or change in pH <br>
+      <br>
+      Denaturation may be reversible: annealing</p>
+    <p>DNA exists as double helix at normal temperatures</p>
+    <p>Two DNA strands dissociate at elevated temperatures</p>
+    <p>Two strands re-anneal when temperature is lowered</p>
+    <p>The reversible thermal denaturation and annealing form basis for the
+      polymerase chain reaction</p>
+    <p>DNA denaturation is commonly monitored by UV spectrophotometry at 260 nm</p>
+  </body>
+</html>

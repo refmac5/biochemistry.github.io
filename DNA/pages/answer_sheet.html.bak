@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title></title>
+  </head>
+  <body>
+    <p>The double-helical structure is stabilized by hydrogen bonding between
+      complementary bases on opposite strands and by base stacking between
+      adjacent bases on the same strand. Base stacking in nucleic acids causes a
+      decrease in the absorption of UV light (relative to the non-stacked
+      structure). On denaturation of DNA, the base stacking is lost and UV
+      absorption increases.</p>
+    <p><br>
+    </p>
+    <p>Solibilities: phosphate &gt; deoxyribose &gt; guanine. </p>
+    <p><img ng-show="current.info.type == 'image'" class="gallery_main bucket unselectable active"
+        ng-class="{active:current.bucket.loaded}" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Guanosintriphosphat_protoniert.svg/640px-Guanosintriphosphat_protoniert.svg.png?1490636812456"
+        ng-src="" style=""></p>
+  </body>
+</html>

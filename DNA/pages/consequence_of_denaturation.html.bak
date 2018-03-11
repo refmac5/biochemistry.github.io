@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>consequence_of_denaturation</title>
+  </head>
+  <body>
+    <h1><span style="font-family: Ubuntu;"> -- Covalent bonds remain intact </span>
+    </h1>
+    <h1><span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp; -- Genetic code
+        remains intact</span></h1>
+    <h1> </h1>
+    <h1><span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp; -- Hydrogen bonds
+        are broken</span></h1>
+    <h1> </h1>
+    <h1><span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp; -- Two strands
+        separate</span></h1>
+    <h1> </h1>
+    <h1><span style="font-family: Ubuntu;">&nbsp;&nbsp;&nbsp; -- Base stacking
+        is lost</span></h1>
+    <h1><span style="font-family: Ubuntu;"> &nbsp;&nbsp;&nbsp; -- UV absorbance
+        increases ( DNA denaturation is commonly monitored by UV
+        spectrophotometry at 260 nm)
+      </span></h1>
+  </body>
+</html>
