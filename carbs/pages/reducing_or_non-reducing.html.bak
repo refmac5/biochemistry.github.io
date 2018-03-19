@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>reducing_or_non-reducing</title>
+    <style type="text/css">
+#size {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="size">
+    <p>The glycosidic bond (an acetal) between monomers is less reactive than
+      the hemiacetal at the second monomer<br>
+      Second monomer, with the hemiacetal, is reducing<br>
+      Anomeric carbon involved in the glycosidic linkage is nonreducing </p>
+  </body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>glycogen</title>
+    <style type="text/css">
+#font {
+  font-family: "Ubuntu";
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="font">
+    <p><b>Carbohydrate</b></p>
+    <p>Cn(H2O)n</p>
+    <p>Function</p>
+    <p>energy source and energy storage<br>
+      structural component of cell walls and exoskeletons<br>
+      informational molecules in cell-cell signaling</p>
+    <p><br>
+    </p>
+    <p><b>Categorize carbohydrates</b><br>
+    </p>
+    <p><a href="pages/aldose_ketose.html">Aldose and Ketose</a></p>
+    <p>An aldose contains an aldehyde functionality <br>
+      A ketose contains a ketone functionality&nbsp; </p>
+    <b>Stereoisomers</b>
+    <p><a href="pages/enatiomers.html">a. Enantiomers </a><br>
+      Stereoisomers that are nonsuperimposable mirror images </p>
+    <p>b. Diastereomers: stereoisomers that are not mirror images</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp; <a href="pages/epimer.html">Epimers</a> are two
+      sugars that differ only in the configuration around one carbon atom</p>
+    <p><br>
+    </p>
+    <p><a href="pages/D_L.html">D and L stereoisomers</a></p>
+    <p>In sugars that contain many chiral centers, only the one that is most
+      distant from the carbonyl carbon is designated as D (right) or L (left)</p>
+    <p>Most hexoses in living organisms are D stereoisomers</p>
+    <p><br>
+    </p>
+    <p><a href="pages/glucose_epimers.html">Glucose Epimers</a></p>
+    <p><a href="pages/ribose.html">Ribose</a> is the standard five-carbon sugar<br>
+      Glucose is the standard six-carbon sugar<br>
+      Galactose is an epimer of glucose<br>
+      Mannose is an epimer of glucose<br>
+      <a href="pages/D-fructose.html">Fructose</a> is the ketose form of glucose<br>
+    </p>
+    <p><a href="pages/hexose_derivatives.html">Hexose Derivatives</a><br>
+    </p>
+    <p><a href="pages/chitin.html">Chitin</a><br>
+    </p>
+    <p><br>
+    </p>
+    <p><a href="pages/ring_formation.html"><b>Cyclization of Monosaccharide</b><br>
+      </a></p>
+    <p><a href="pages/cyclization.html">Cyclization process (x)<br>
+      </a></p>
+    <p> </p>
+    <p><a href="pages/pyran_furan.html">Pyran and Furan</a></p>
+    <p>Six-membered oxygen-containing rings are called pyranoses<br>
+      Five-membered oxygen-containing rings are called furanoses </p>
+    <p><b>Equilibrium between ring form and open-chain form</b></p>
+    <p><a href="pages/reducible_sugar.html">Reducing sugar(x)</a> - glucose</p>
+    <br>
+    <p><b>DISACCHARIDE</b></p>
+    <p><a href="pages/glycosidic_bond.html">Glycosidic Bond</a></p>
+    <p>Two sugar molecules can be joined via a glycosidic bond between an
+      anomeric carbon and a hydroxyl carbon&nbsp; <br>
+    </p>
+    <p><a href="pages/reducing_or_non-reducing.html">Reducing&nbsp; (x)</a><br>
+      <br>
+    </p>
+    <p><a href="pages/anomeric_anomeric_glycosidic_bond.html">Bonds formed
+        betwee two anomeric carbons</a></p>
+    <p><a href="pages/non-reducing.html">Non-reducing (x)</a><br>
+    </p>
+    <p><br>
+    </p>
+    <p><a href="pages/polysaccharide.html"><b>Polysaccharides</b></a></p>
+    <p>-homopolysaccharides<br>
+      -heteropolysaccharides <br>
+      -linear <br>
+      -branched<br>
+    </p>
+    <p><b><a href="pages/glycosidic_linkage_in_glycogen_and_starch.html">Glycosidic
+          Linkage</a><br>
+      </b></p>
+    <p><b>Glycogen</b> is a branched homopolysaccharide of glucose (<a href="glycogen.html">x</a>)<br>
+      <br>
+    </p>
+    <p><b><a href="pages/amylose_amylopectin_in_starch.html">Starch</a> </b>is
+      a mixture of two homopolysaccharides of glucose (<a href="pages/amylose.html">x</a>)<br>
+      <br>
+    </p>
+    <p>Metabolism of Glycogen and Starch (<a href="pages/metabolism_glycogen_starch.html">x</a>)</p>
+    <p><br>
+    </p>
+    <p><a href="pages/cellulose_glycosidic_bond.html"><b>Cellulose</b></a> is a
+      branched homopolysaccharide of glucose<br>
+      Glucose monomers form (beta 1 - 4) linked chains<br>
+      Hydrogen bonds form between adjacent monomers<br>
+      Additional H-bonds between chains<br>
+      Structure is now tough and water-insoluble<br>
+      Most abundant polysaccharide in nature<br>
+      Cotton is nearly pure fibrous cellulose</p>
+    <p>Cellulose metabolism (<a href="pages/cellulose_metabolism.html">x</a>)</p>
+    <p><br>
+    </p>
+    <p><b>Glycosaminoglycans (<a href="pages/glycosaminoglycans.html">x</a>)<br>
+      </b></p>
+    <p>Linear polymers of <a href="pages/repeating_disaccharides.html">repeating
+        disaccharide</a> units (e.g. <a href="pages/repeating_disaccharide2.html">Heparin</a>
+      (<a href="pages/heparin.html">x</a>))<br>
+      -One monomer is either N-acetyl-glucosamine or N-acetyl-galactosamine<br>
+      -Negatively charged</p>
+    <p><br>
+    </p>
+    <p>Glycoconjugates: <b>Glycoprotein (<a href="pages/glycoprotein.html">x</a>)<br>
+      </b></p>
+    <p><a href="pages/o_n_linked.html">O-linked, N-linked</a></p>
+    <p><br>
+    </p>
+  </body>
+</html>

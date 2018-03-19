@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>quiz</title>
+    <style type="text/css">
+#s {
+  font-family: "Ubuntu";
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>1. Draw the structural formula for α-D-glucosyl-(1--&gt; 6)-D-mannosamine
+      and circle the part of this structure that makes the compound a reducing
+      sugar.</p>
+    <p>2. Lactose exists in two anomeric forms, but no anomeric forms of sucrose
+      have been reported. why?</p>
+    <p>3. Gentiobiose (D-Glc(β1--&gt;6)D-Glc) is a dissacharide found in some
+      plant glysodies. Draw the structure of gentobiose based on its abbreviated
+      name. Is it a reducing sugar? Does it undergo mutarotation? </p>
+    <p>4. Heparin, a highly negatively charged glycosaminoglycan, is used
+      clinically as an anticoagulant. It acts by binding several plasma
+      proteins, including antithrombin III, an inhibitor of blood clotting. The
+      1:1 binding of heparin to antithrombin III seems to cause a conformational
+      change in the protein that greatly increases its ability to inhibit
+      clotting. What amino acid residues of antithrombin III are likely to
+      interact with heparin? </p>
+  </body>
+</html>
