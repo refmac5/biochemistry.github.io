@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>sterols_physi</title>
+    <style type="text/css">
+#s {
+  font-size: x-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>&nbsp; --Cholesterol and related sterols are present in the membranes of
+      most eukaryotic cells<br>
+      &nbsp;&nbsp;&nbsp; --Modulate fluidity and permeability<br>
+      &nbsp;&nbsp;&nbsp; --Thicken the plasma membrane<br>
+      &nbsp;&nbsp;&nbsp; --Most bacteria lack sterols<br>
+      &nbsp;&nbsp;&nbsp; --Mammals obtain cholesterol from food or synthesize it
+      de novo in the liver <br>
+      &nbsp;&nbsp;&nbsp; --Cholesterol, bound to proteins, is transported to
+      tissues via blood vessels<br>
+      &nbsp;&nbsp;&nbsp; --Cholesterol in low-density lipoproteins tends to
+      deposit and clog arteries <br>
+      &nbsp;&nbsp;&nbsp; --Many hormones are derivatives of sterols<br>
+    </p>
+  </body>
+</html>

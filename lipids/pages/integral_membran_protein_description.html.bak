@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>integral_membran_protein_description</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <ul>
+      <li>Have asymmetry like the membrane</li>
+    </ul>
+    <ul>
+      <li> Different domains in different compartments</li>
+    </ul>
+    <ul>
+      <li> Tightly associated with membrane</li>
+    </ul>
+    <ul>
+      <li> Hydrophobic stretches in the protein interact with the hydrophobic
+        regions of the membrane</li>
+    </ul>
+    <ul>
+      <li> Removed by detergents that disrupt the membrane</li>
+    </ul>
+    <p> Purified integral membrane proteins still have phospholipids associated
+      with them</p>
+  </body>
+</html>

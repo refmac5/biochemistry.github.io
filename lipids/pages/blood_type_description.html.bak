@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>blood_type_description</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>The blood groups are determined in part by the type of sugars located on
+      the head groups in glycosphingolipids.&nbsp; <br>
+      The structure of sugar is determined by an expression of specific
+      glycosyltransferases&nbsp; <br>
+      Individuals with no active glycosyltransferase will have the O antigen<br>
+      Individuals with a glycosyltransferase that transfers an
+      N-acetylgalactosamine group have A blood group<br>
+      Individuals with a glycosyltransferase that transfers a galactose group
+      have B blood group</p>
+  </body>
+</html>

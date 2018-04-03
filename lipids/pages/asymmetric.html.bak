@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>asymetric</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p><br>
+      <br>
+    </p>
+    <p>Every component of the membrane exhibits asymmetry<br>
+      Lipids (Some lipids are found preferably “inside”<br>
+      Some lipids are found preferably “outside”)</p>
+    <p>Outer and inner leaflets have different lipid compositions<br>
+      <br>
+      Individual peripheral membrane proteins are only associated with one side
+      of the membrane</p>
+    <p>Integral membrane proteins have different domains on different sides of
+      the membrane.</p>
+    <p>Specific lipid modification of proteins targets the protein to a specific
+      leaflet</p>
+    <p>Carbohydrates Only on the outside of cells</p>
+    Electrically polarized (inside negative ~ –60mV)
+  </body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>properties_membrane</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Dynamic and flexible structures</p>
+    <p>Can exist in various phases and undergo phase transitions</p>
+    <p>Not permeable to large polar solutes and ions</p>
+    <p>Permeable to small polar solutes and nonpolar compounds</p>
+    <p>Permeability can be artificially increased by chemical treatment</p>
+    <p>When we want to get DNA into the cell</p>
+  </body>
+</html>
