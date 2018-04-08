@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>step2_rathionale</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Rationale</p>
+    <p>-C1 of fructose is easier to phosphorylate by PFK<br>
+      -Allows for symmetrical cleave by aldolase</p>
+    <p>An aldose (glucose) can isomerize into a ketose (fructose) via an enediol
+      intermediate</p>
+    <p>The isomerization is catalyzed by the active-site glutamate, via general
+      acid/base catalysis<br>
+      <br>
+      Slightly thermodynamically unfavorable/reversible<br>
+      --Product concentration kept low to drive forward</p>
+  </body>
+</html>

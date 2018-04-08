@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>yeast_ethanol_fermentation_illustration</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Yeast undergo Ethanol Fermentation</p>
+    <p><br>
+    </p>
+    <ul>
+      <li>Two-step reduction of pyruvate to ethanol, irreversible</li>
+    </ul>
+    <ul>
+      <li>Humans do not have pyruvate decarboxylase, we do express alcohol
+        dehydrogenase for ethanol metabolism</li>
+    </ul>
+    <ul>
+      <li>CO2 produced in the first step is responsible for:</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -carbonation in beer <br>
+      &nbsp;&nbsp;&nbsp; -dough rising when baking bread</p>
+    <ul>
+      <li>Both steps require cofactors</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -Pyruvate decarboxylase: Mg<sup>2+</sup> and thiamine
+      pyrophosphate<br>
+      &nbsp;&nbsp;&nbsp; -Alcohol dehydrogenase:&nbsp; Zn<sup>2+</sup> and NAD<sup>+</sup></p>
+  </body>
+</html>

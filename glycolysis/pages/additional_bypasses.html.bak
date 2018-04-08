@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>additional_bypasses</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Additional bypass</p>
+    <ul>
+      <li>Catalyze reverse reaction of opposing step in glycolysis</li>
+    </ul>
+    <ul>
+      <li>Are irreversible themselves<br>
+      </li>
+    </ul>
+    <ul>
+      <li> Fructose 1,6-bisphosphate --&gt; Fructose 6-Phosphate</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -- Catalyzed by fructose bisphosphatase-1<br>
+      &nbsp;&nbsp;&nbsp; -- Coordinately/oppositely regulated with PFK<br>
+    </p>
+    <ul>
+      <li> Glucose 6-phosphate --&gt; Glucose</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -- Catalyzed by glucose 6-phosphatase</p>
+  </body>
+</html>

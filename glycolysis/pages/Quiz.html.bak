@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Quiz</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+  font-family: "Ubuntu";
+}
+
+#u {
+  font-family: "Ubuntu";
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s"><br>
+    <p>1. One consequence of starvation is a reduction in muscle mass. What
+      happens to the muscle proteins?</p>
+    <p>2. The conversion of glucose to pyruvate cannot sustain living cells
+      without further conversion of pyruvate either by respiration or
+      fermentation. What is the main reason?</p>
+    <p>3. The conversion of glucose into glucose 6-phosphate, which must occur
+      in the breakdown of glucose, is thermodynamically unfavorable
+      (endergonic). How do cells overcome this problem?</p>
+    <p>4. Why is it important that gluconeogenesis is not the exact reversal of
+      glycolysis?</p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+  </body>
+</html>

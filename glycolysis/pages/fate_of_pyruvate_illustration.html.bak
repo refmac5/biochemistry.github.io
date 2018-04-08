@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>fate_of_pyruvate_illustration</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Anaerobic Glycolysis: fermentation</p>
+    <ul>
+      <li>&nbsp;Generation of energy (ATP) without consuming oxygen or NAD+</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -- No net change in oxidation state of the sugars<br>
+      &nbsp;&nbsp;&nbsp; -- Reduction of pyruvate to another product<br>
+      &nbsp;&nbsp;&nbsp; -- Regenerates NAD+ for further glycolysis under
+      anaerobic conditions<br>
+      &nbsp;&nbsp;&nbsp; -- The process is used in the production of food from
+      beer to yogurt to soy sauce</p>
+    <ul>
+      <li>lactic acid fermentation:</li>
+    </ul>
+    <p>&nbsp;&nbsp;&nbsp; -- Reduction of pyruvate to lactate, reversible<br>
+      &nbsp;&nbsp;&nbsp; -- During strenuous exercise, lactate builds up in the
+      muscle<br>
+      &nbsp;&nbsp;&nbsp; -- Generally less than 1 minute<br>
+      &nbsp;&nbsp;&nbsp; -- The acidification of muscle prevents its continuous
+      strenuous work<br>
+      &nbsp;&nbsp;&nbsp; -- The lactate can be transported to the liver and
+      converted to glucose there<br>
+      &nbsp;&nbsp;&nbsp; -- Requires a recovery time<br>
+      &nbsp;&nbsp;&nbsp; -- High amount of oxygen consumption to fuel
+      gluconeogenesis<br>
+      &nbsp;&nbsp;&nbsp; -- Restores muscle glycogen stores</p>
+  </body>
+</html>

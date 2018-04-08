@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>pentose_phosphate_pathway_illustration</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <ul>
+      <li>The main products are NADPH and ribose 5-phosphate</li>
+    </ul>
+    <p> </p>
+    <ul>
+      <li> NADPH is an electron donor</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -Reductive biosynthesis of fatty acids and steroids<br>
+      &nbsp;&nbsp;&nbsp; -Repair of oxidative damage<br>
+    </p>
+    <ul>
+      <li> Ribose-5-phosphate is a biosynthetic precursor of nucleotides</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -Used in DNA and RNA synthesis<br>
+      &nbsp;&nbsp;&nbsp; -Or synthesis of some coenzymes</p>
+  </body>
+</html>

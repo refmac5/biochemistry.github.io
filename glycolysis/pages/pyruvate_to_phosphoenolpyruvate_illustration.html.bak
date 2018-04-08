@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>pyruvate_to_phosphoenolpyruvate_illustration</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <ul>
+      <li>Requires two energy-consuming steps</li>
+    </ul>
+    <ul>
+      <li>First step, pyruvate carboxylase converts pyruvate to oxaloacetate</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -Carboxylation using a biotin cofactor<br>
+      &nbsp;&nbsp;&nbsp; -Requires transport into the mitochondria, via malate</p>
+    <ul>
+      <li>Second step, phosphoenolpyruvate carboxykinase converts oxaloacetate
+        to PEP</li>
+    </ul>
+    <p> &nbsp;&nbsp;&nbsp; -Phosphorylation from GTP and decarboxylation <br>
+      &nbsp;&nbsp;&nbsp; -Occurs in mitochondria or cytosol depending on the
+      organism</p>
+  </body>
+</html>
