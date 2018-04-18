@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>I_aconitase</title>
+    <style type="text/css">
+#s {
+  font-size: x-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Elimination of H<sub>2</sub>O from citrate gives a cis C=C bond <br>
+    </p>
+    <p>Citrate, a tertiary alcohol, is a poor substrate for oxidation</p>
+    <p> Isocitrate, a secondary alcohol, is a good substrate for oxidation</p>
+    <p>Addition of H<sub>2</sub>O to cis-aconitate is stereospecific<br>
+      <br>
+      Thermodynamically unfavorable/reversible</p>
+    <p> Product concentration kept low to pull forward</p>
+    <p>Aconitase is stereospecific, Only R-isocitrate is produced by aconitase </p>
+  </body>
+</html>

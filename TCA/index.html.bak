@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>index</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+  font-family: "Ubuntu Mono", "Ubuntu";
+}
+
+</style></head>
+  <body id="s">
+    <p><span style="color: #3333ff;"><b>Citric Acid Cycle <br>
+        </b></span></p>
+    <p><a href="pages/energy_captured_via_glycolysis.html"><br>
+      </a></p>
+    <ul>
+      <li><a href="pages/energy_captured_via_glycolysis.html">energy</a>
+        captured via glycolysis</li>
+    </ul>
+    <p><br>
+    </p>
+    <ul>
+      <li>Respiration:<a href="pages/respiration_stage1_acetyl_coA_production.html"><br>
+        </a></li>
+    </ul>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="pages/respiration_stage1_acetyl_coA_production.html">stage1</a>,
+      Acetyl-CoA production, Generates some:ATP, NADH, FADH2 </p>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="pages/respiration_stage2_acetyl-coA_oxidation.html">stage2</a>,
+      acetyl-CoA oxidation, Generates more NADH, FADH2, and one GTP<a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="pages/respiration_stage3.html">stage3</a>,
+      oxidative phosphorylation, Generates a lot of ATP<a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p><a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <ul>
+      <li>Location of citric acid cycle</li>
+    </ul>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; --Glycolysis occurs in the
+      cytoplasm. <a href="pages/TCA_in_mitochondria.html"><br>
+      </a></p>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; --<a href="pages/TCA_in_mitochondria.html">where</a>
+      does citric acid cycle occur?</p>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; --In eukaryotes, citric acid cycle
+      occurs in mitochondria.<br>
+      <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; --Oxidative phosphorylation occurs
+      in the inner membrane. <a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <ul>
+      <li><a href="pages/TCA_overall.html">Citric Acid Cycle (big picture)<br>
+        </a></li>
+    </ul>
+    <p><a href="pages/pyruvate_to_acetyl-CoA.html"><br>
+      </a></p>
+    <ul>
+      <li><a href="pages/pyruvate_to_acetyl-CoA.html">conversion</a> of pyruvate
+        to acetyl-CoA</li>
+    </ul>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; --Catalyzed by the pyruvate
+      dehydrogenase complex<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; --Requires 5 coenzymes: TPP
+      (thiamine pyrophosphate), <a href="pages/structure_lipoylysine.html">lipoyllysine</a>,
+      and FAD are prosthetic groups, NAD<sup>+</sup> and <a href="pages/coA.html">CoA-SH</a>&nbsp;
+      are co-substrate&nbsp; </p>
+    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; --<a href="pages/overall_PDC_reaction.html">pyruvate
+      dehydrogenase complex</a> (cryo-EM <a href="pages/PDC_cryo_EM.html">model</a>)<a
+      href="pages/overall_PDC_reaction.html"><br>
+    </a>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; --PDC is a
+      large (up to&nbsp;10 MDa) multienzyme complex composed of E1, E2 and E3<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; --Advantages of
+      multienzyme complexes: <br>
+      &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+      a.short distance between catalytic sites allows channeling of substrates
+      from one catalytic site to another, channeling minimizes side reactions<br>
+      &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+      b.regulation of activity of one sub-unit affects the entire complex<a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p><a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <ul>
+      <li>Description of the function of E1, E2 and E3<br>
+      </li>
+    </ul>
+    <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; a. Enzyme 1 (E1) <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; --Step 1: Decarboxylation of pyruvate to an aldehyde <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; --Step 2: Oxidation of aldehyde to a carboxylic acid,
+      Electrons reduce lipoamide and form a thioester<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; b. Enzyme 2 (E2)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp; --Step 3: Formation of acetyl-CoA (product 1)<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; c. Enzyme 3 (E3) <br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; --Step 4: Reoxidation of the lipoamide cofactor<br>
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp; --Step 5: Regeneration of the oxidized FAD cofactor,
+      forming NADH (product 2)<a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <ul>
+      <li>Regulation of pyruvate dehydrogenase (<a href="pages/I_regulation_of_pyruvate_dehydrogenase.html">+</a>)<a
+          href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+        </a></li>
+    </ul>
+    <p><a href="pages/citric_acid_cycle.html"><br>
+      </a></p>
+    <ul>
+      <li><a href="pages/citric_acid_cycle.html">Citric acid cycle</a></li>
+    </ul>
+    <p>&nbsp;Step 1: C-C bond formation to make citrate <br>
+      &nbsp;Step 2: Isomerization via dehydration/rehydration<br>
+      &nbsp;Step 3–4: Oxidative decarboxylations to give 2 <u>NADH</u><br>
+      &nbsp;Step 5: Substrate-level phosphorylation to give <u>GTP</u><br>
+      &nbsp;Step 6: Dehydrogenation to give reduced <u>FADH2 </u><br>
+      &nbsp;Step 7: Hydration<br>
+      &nbsp;Step 8: Dehydrogenation to give <u>NADH</u><a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p>&nbsp;&nbsp;&nbsp; 1. Citrate formation (citrate synthase): C-C Bond
+      Formation by <a href="pages/condensation_of_acetyl-CoA_oxaloacetate.html">Condensation</a>
+      of Acetyl-CoA and Oxaloacetate<a href="pages/respiration_stage2_acetyl-coA_oxidation.html"></a><a
+        href="pages/induced_fit_citrate_synthase.html"> (</a><a href="pages/citrate_synthase_illustration.html">+</a>)</p>
+    <p><a href="pages/induced_fit_citrate_synthase.html">induced fit</a> in the
+      citrate synthase (<a href="pages/I_induced_fit_citrate_synthase.html">+</a>)</p>
+    <p>citrate synthase <a href="pages/mechanism_citrate_synthase.html">mechanism</a></p>
+    <p><br>
+    </p>
+    <p>&nbsp;&nbsp;&nbsp; 2. citrate to isocitrate (aconitase(<a href="pages/I_aconitase.html">+</a>)):
+      <a href="pages/acnitase_isomerization.html">isomerization</a> by
+      dehydration/rehydration&nbsp;</p>
+    <p><a href="pages/aconitase_iron_sulfur_center.html">iron-sulfur</a> center
+      in aconitase (<a href="pages/I_iron-sulfur_center_aconitase.html">+</a>)</p>
+    <p>&nbsp;&nbsp;&nbsp; 3. isocitrate to alpha-ketoglutarate (isocitrate
+      dehydrogenase (<a href="pages/I_isocirate_dehydrogenase.html">+</a>)):
+      oxidative decarboxylation <a href="pages/oxidative_decarboxylation2.html">#2</a></p>
+    <p>&nbsp;&nbsp;&nbsp; 4. alpha-ketoglutarate to succinyl-CoA
+      (alpha-ketoglutarate dehydrogenase complex (<a href="pages/I_alpha_ketoglutarate_dehydrogenase.html">+</a>)):<a
+        href="pages/final_oxidative_decarboxylation.html"> final</a> oxidative
+      decarboxylation</p>
+    <p><a href="pages/alpha_ketoglutarate_DH.html">alpha-ketoglutarate
+        dehydrogenase</a></p>
+    <p>Complex similar to pyruvate dehydrogenase<br>
+      Same coenzymes, identical mechanisms<br>
+      Active sites different to accommodate different-sized substrates</p>
+    <p>&nbsp;&nbsp;&nbsp; 5. succinyl-CoA to succinate (succinyl-CoA synthetase
+      (<a href="pages/I_succinyl-CoA_synthetase.html">+</a>)): substrate level
+      phosphorylation<a href="pages/mechanism_succinyl-CoA_synthetase.html"><br>
+      </a></p>
+    <p><a href="pages/mechanism_succinyl-CoA_synthetase.html">mechanism</a> of
+      succinyl-CoA synthetase</p>
+    <p>&nbsp;&nbsp;&nbsp; 6. succinate to fumarate (succinate dehydrogenase ): <a
+        href="pages/alkane_to_alkene.html">oxidation</a> of an alkane to alkene<a
+        href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p>&nbsp;&nbsp;&nbsp; 7. fumarate to malate (fumarase (<a href="pages/I_succinate_dehydrogenase.html">+</a>)):
+      <a href="pages/fumarate_to_malate.html">hydration</a> across a double bond<a
+        href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p><a href="pages/stereospecificity_of_fumarase.html">stereospecificity</a>
+      of fumarase<a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p>&nbsp;&nbsp;&nbsp; 8. malate to oxaloacetate (malate dehydrogenase (<a href="pages/I_malate_dehydrogenase.html">+</a>)):
+      <a href="pages/malate_to_oxaloacetate.html">oxidation</a> of alcohol to
+      ketone</p>
+    <p><br>
+    </p>
+    <ul>
+      <li>Net result of the Citric Acid Cycle:</li>
+    </ul>
+    <p><span style="color: #009900;">&nbsp; Acetyl-CoA + 3NAD<sup>+</sup> + FAD
+        + GDP + Pi + 2 H<sub>2</sub>O --&gt; 2CO<sub>2</sub> + 3NADH + FADH<sub>2</sub>
+        + GTP + CoA + 3H<sup>+</sup></span></p>
+    <p>-- Question: Are the two CO2 molecules from the acetyl-CoA?</p>
+    <p><sub> </sub></p>
+    <p>-- <a href="pages/yield_of_ATP.html">The Yield</a> of ATP from Citric
+      Acid Cycle</p>
+    <ul>
+      <li>&nbsp;Overall Citric acid cycle (<a href="pages/input_output_citric_acid_cycle.html">input
+          and output</a>)<a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+        </a></li>
+    </ul>
+    <ul>
+      <li>&nbsp;amphibolic <a href="pages/intermediates_amphibolic.html">intermediates</a>
+        - (A central metabolic pathway)</li>
+    </ul>
+    <p><br>
+    </p>
+    <br>
+    <p><a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p><a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p><a href="pages/respiration_stage2_acetyl-coA_oxidation.html"><br>
+      </a></p>
+    <p><br>
+    </p>
+  </body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>quiz</title>
+  </head>
+  <body>
+    <p>
+    </p>
+    <p class="western" style="margin-bottom: 0.17in"><font face="Times New Roman, serif"><font
+          style="font-size: 12pt" size="3">Which
+          of the following is true of the citric acid cycle?</font></font></p>
+    <div id="Section9" dir="ltr">
+      <ol>
+        <li>
+          <p class="western" style="margin-bottom: 0in">Oxaloacetate is used as
+            a substrate, but is not consumed in the cycle </p>
+        </li>
+        <li>
+          <p class="western" style="margin-bottom: 0in">ATP and NAD<sup><font style="font-size: 9pt"
+                size="2">+</font></sup> are allosteric regulators of the cycle </p>
+        </li>
+        <li>
+          <p class="western" style="margin-bottom: 0in">Flux through the cycle
+            is regulated by the availability of citrate synthase substrates </p>
+        </li>
+        <li>
+          <p class="western" style="margin-bottom: 0in">Acetyl-CoA is a key
+            intermediate of the cycle </p>
+        </li>
+        <li>
+          <p class="western">Flux through the cycle is decreased when oxygen is
+            limited </p>
+        </li>
+      </ol>
+    </div>
+    <div id="Section10" dir="ltr">
+      <h2 class="western">Answer</h2>
+      <p class="western"><b>A</b>, <b>C</b>, and <b>E</b> </p>
+    </div>
+    <p class="western"><a name="answer1"></a>The cycle can be envisioned
+      as starting with the condensation reaction of oxaloacetate and
+      acetyl-CoA. This is a highly exergonic and key regulatory step, and
+      flux through the entire cycle is to a large extent determined by the
+      concentrations of the 2 substrates. The citric acid cycle is also
+      regulated allosterically at several steps by ATP and NADH, which are
+      inhibitors.</p>
+    <p class="western">Acetyl-CoA is a key substrate that feeds into the
+      citric acid cycle and a key metabolic intermediate, but it is not an
+      intermediate of the cycle itself. The net overall reaction of the
+      citric acid cycle is the oxidation of acetyl-CoA to 2 CO<sub><font style="font-size: 9pt"
+          size="2">2</font></sub>,
+      with no net consumption of oxaloacetate.</p>
+    <p class="western">No step in the citric acid cycle uses O<sub><font style="font-size: 9pt"
+          size="2">2</font></sub>
+      as a substrate; however, the entire cycle is indirectly O<sub><font style="font-size: 9pt"
+          size="2">2</font></sub>-dependent,
+      since the oxidized pyridine nucleotide NAD<sup><font style="font-size: 9pt"
+          size="2">+</font></sup>
+      is regenerated through the electron transport chain, which utilizes
+      O<sub><font style="font-size: 9pt" size="2">2</font></sub> as the
+      terminal electron acceptor. The cycle require 3 equivalents of NAD<sup><font
+          style="font-size: 9pt" size="2">+</font></sup>
+      per turn, and furthermore is allosterically inhibited by high
+      concentrations of NADH.</p>
+    <p class="western"><br>
+    </p>
+    <p class="western"><br>
+    </p>
+    <p class="western"><br>
+    </p>
+    <p class="western">
+    </p>
+    <p class="western" style="margin-bottom: 0.17in"><font face="Times New Roman, serif"><font
+          style="font-size: 12pt" size="3">Match
+          each of the following reactions of the citric acid cycle to the
+          appropriate description:</font></font></p>
+    <div id="Section1" dir="ltr">
+      <table width="582" cellpadding="2" cellspacing="0">
+        <colgroup><col width="300"> <col width="274"> </colgroup>
+        <tbody>
+          <tr>
+            <td style="border: none; padding: 0in" width="300">
+              <p class="western">A. α-ketoglutarate + CoA-SH → succinyl-CoA + CO<sub><font
+                    style="font-size: 9pt" size="2">2</font></sub></p>
+            </td>
+            <td style="border: none; padding: 0in" width="274">
+              <p class="western">1. inhibited by thiamine deficiency</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="border: none; padding: 0in" width="300">
+              <p class="western">B. succinyl-CoA → succinate + CoA-SH</p>
+            </td>
+            <td style="border: none; padding: 0in" width="274">
+              <p class="western">2. coupled to substrate-level phosphorylation</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="border: none; padding: 0in" width="300">
+              <p class="western">C. citrate → isocitrate</p>
+            </td>
+            <td style="border: none; padding: 0in" width="274">
+              <p class="western">3. substrate is prochiral </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="border: none; padding: 0in" width="300">
+              <p class="western">D. malate → oxaloacetate</p>
+            </td>
+            <td style="border: none; padding: 0in" width="274">
+              <p class="western">4. coupled to NAD<sup><font style="font-size: 9pt"
+                    size="2">+</font></sup> reduction</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="border: none; padding: 0in" width="300">
+              <p class="western">E. succinate → fumarate</p>
+            </td>
+            <td style="border: none; padding: 0in" width="274">
+              <p class="western">5. catalyzed by an integral membrane protein</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="Section2" dir="ltr">
+      <h2 class="western">Answer</h2>
+      <ul>
+        <li>
+          <p class="western" style="margin-bottom: 0in">α-ketoglutarate + CoA-SH
+            → succinyl-CoA + CO<sub><font style="font-size: 9pt" size="2">2</font></sub>
+            - inhibited by thiamine deficiency </p>
+        </li>
+        <li>
+          <p class="western" style="margin-bottom: 0in">succinyl-CoA → succinate
+            + CoA-SH - coupled to substrate-level phosphorylation </p>
+        </li>
+        <li>
+          <p class="western" style="margin-bottom: 0in">citrate → isocitrate -
+            substrate is prochiral </p>
+        </li>
+        <li>
+          <p class="western" style="margin-bottom: 0in">malate → oxaloacetate -
+            coupled to NAD<sup><font style="font-size: 9pt" size="2">+</font></sup>
+            reduction </p>
+        </li>
+        <li>
+          <p class="western">succinate → fumarate - catalyzed by an integral
+            membrane protein </p>
+        </li>
+      </ul>
+    </div>
+    <p class="western">The following are key features of the enzymatic
+      steps above:</p>
+    <ol>
+      <li>
+        <p class="western">Aconitase catalyzes the isomerization of citrate to
+          isocitrate. In this reaction, the prochiral citrate interacts
+          stereospecifically with the enzyme to produce only 1 of 4 possible
+          diastereomers of isocitrate. Thus, although citrate is a symmetrical
+          molecule, no scrambling of isotopic labels occurs at this step, due to
+          the stereospecificity of the reaction.</p>
+      </li>
+      <li>
+        <p class="western">The α-ketoglurate dehydrogenase complex that
+          catalyzes the oxidative decarboxylation of α-ketoglurate to
+          succinyl-CoA is highly analogous to the pyruvate dedydrogenase
+          complex. Like PDH, α-ketoglurate dehydrogenase utilizes TPP and will
+          be inhibited by thiamine deficiency.</p>
+      </li>
+      <li>
+        <p class="western">Succinyl-CoA is converted to succinate in a reaction
+          that also forms GTP (ATP) from GDP (ADP). This is the only
+          substrate-level phosphorylation in the citric acid cycle.</p>
+      </li>
+      <li>
+        <p class="western">Succinate dehydrogenase catalyzes the oxidation of
+          succinate to fumarate in a reaction that uses FAD as the oxidant. The
+          enzyme is an integral membrane protein, also known as Complex II of
+          the electron transport chain, and the FADH<sub><font style="font-size: 9pt"
+              size="2">2</font></sub> formed in the reaction is reoxidized by
+          ubiquinol as part of the catalytic cycle.</p>
+      </li>
+      <li>
+        <p class="western">Malate dehydrogenase catalyzes the oxidation of
+          malate to oxaloacetate. This is 1 of 3 steps in the citric acid cycle
+          that is coupled to NAD<sup><font style="font-size: 9pt" size="2">+</font></sup>
+          reduction, forming NADH that goes on to the electron transport chain.</p>
+      </li>
+    </ol>
+    <p class="western"><br>
+    </p>
+  </body>
+</html>

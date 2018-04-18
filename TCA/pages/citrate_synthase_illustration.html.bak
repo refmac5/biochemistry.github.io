@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>citrate_synthase_illustration</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Condensation of acetyl-CoA and oxaloacetate -- The only reaction with C-C
+      bond formation</p>
+    <p>Uses Acid/Base Catalysis<br>
+      &nbsp;&nbsp;&nbsp; - Carbonyl of oxaloacetate is a good electrophile<br>
+      &nbsp;&nbsp;&nbsp; - Methyl of acetyl-CoA is not a good nucleophile unless
+      activated by deprotonation<br>
+    </p>
+    <p><br>
+      Rate-limiting step of CAC<br>
+      &nbsp;&nbsp;&nbsp; -- Activity largely depends on oxaloacetate<br>
+      &nbsp;&nbsp;&nbsp; -- Highly thermodynamically favorable/irreversible<br>
+      &nbsp;&nbsp;&nbsp; -- Regulated by substrate availability and product
+      inhibition</p>
+  </body>
+</html>

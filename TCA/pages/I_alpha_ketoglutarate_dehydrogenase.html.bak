@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>I_alpha_ketoglutarate_dehydrogenase</title>
+    <style type="text/css">
+#s {
+  font-size: xx-large;
+}
+
+</style></head>
+  <body id="s">
+    <p>Last oxidative decarboxylation<br>
+      &nbsp;&nbsp;&nbsp; -- Net full oxidation of all carbons of glucose<br>
+      &nbsp;&nbsp;&nbsp; -- After two turns of the cycle<br>
+      &nbsp;&nbsp;&nbsp; -- Carbons not directly from glucose because carbons
+      lost came from oxaloacetate&nbsp; </p>
+    <p>Succinyl-CoA is another higher-energy thioester bond</p>
+    <p>Highly thermodynamically favorable/irreversible<br>
+      Regulated by product inhibition</p>
+  </body>
+</html>
